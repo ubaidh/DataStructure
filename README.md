@@ -1,2 +1,2 @@
-# DataStructure-in-c-
+# DataStructure in c++
 data structure
