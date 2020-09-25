@@ -1,2 +1,8 @@
 # DataStructure in c++
-data structure
+    Array
+    Stack
+    Queue
+    LinkedList
+    Binary Tree
+    Hashing
+    Graph
